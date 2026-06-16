@@ -1,0 +1,6 @@
+{
+  "FMC.Settings.Enable.Name": "Enable mobile companion",
+  "FMC.Settings.Enable.Hint": "Automatically show the mobile player interface on supported phones.",
+  "FMC.Settings.Force.Name": "Force mobile interface on this client",
+  "FMC.Settings.Force.Hint": "Useful for testing the mobile interface from a desktop browser."
+}
