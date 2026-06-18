@@ -2,7 +2,7 @@
   "id": "foundry-mobile-companion",
   "title": "Foundry Mobile Companion",
   "description": "A portrait-first mobile player interface for Foundry VTT with DnD5e and Monk's TokenBar support.",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "authors": [
     {
       "name": "HornedPriestess"
@@ -10,7 +10,7 @@
   ],
   "url": "https://github.com/LittleRainbowFox/foundry-mobile-companion",
   "manifest": "https://raw.githubusercontent.com/LittleRainbowFox/foundry-mobile-companion/main/module.json",
-  "download": "https://github.com/LittleRainbowFox/foundry-mobile-companion/releases/download/v0.7.5/foundry-mobile-companion.zip",
+  "download": "https://github.com/LittleRainbowFox/foundry-mobile-companion/releases/download/v0.7.6/foundry-mobile-companion.zip",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
