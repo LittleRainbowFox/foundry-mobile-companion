@@ -11,6 +11,27 @@ It is a Foundry module, not a separate service or mobile app. Install it in a wo
 
 Author: **HornedPriestess**
 
+## Installation
+
+Install using this manifest URL:
+
+```text
+https://raw.githubusercontent.com/LittleRainbowFox/foundry-mobile-companion/main/module.json
+```
+
+Or download the release zip and extract it into:
+
+```text
+FoundryVTT/Data/modules/foundry-mobile-companion
+```
+
+Then enable **Foundry Mobile Companion** in the world.
+
+## Desktop Testing
+
+For desktop testing, enable the client setting **Force mobile interface on this client** in Configure Settings.
+
+
 ### Player Companion
 
 <p align="center">
@@ -113,26 +134,6 @@ When [D&D 2024 PDF Exporter](https://github.com/LittleRainbowFox/dnd5e-2024-pdf-
 - The module does not provide a mobile canvas or token-placement interface.
 - Landscape-first layouts, offline play, Android APK packaging, and non-DnD5e systems are not supported.
 - Some actions intentionally defer to the installed system or module UI when their workflow depends on a third-party dialog or unavailable Foundry API.
-
-## Installation
-
-Install using this manifest URL:
-
-```text
-https://raw.githubusercontent.com/LittleRainbowFox/foundry-mobile-companion/main/module.json
-```
-
-Or download the release zip and extract it into:
-
-```text
-FoundryVTT/Data/modules/foundry-mobile-companion
-```
-
-Then enable **Foundry Mobile Companion** in the world.
-
-## Desktop Testing
-
-For desktop testing, enable the client setting **Force mobile interface on this client** in Configure Settings.
 
 ## Changelog
 
