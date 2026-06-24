@@ -1,7 +1,7 @@
 {
   "id": "foundry-mobile-companion",
   "title": "Foundry Mobile Companion",
-  "description": "A portrait-first mobile player interface for Foundry VTT with DnD5e and Monk's TokenBar support.",
+  "description": "A portrait-first player and DM companion interface for Foundry VTT DnD5e worlds, with combat, chat, journals, scenes, playlists, Monk's TokenBar, and D&D 2024 PDF Exporter support.",
   "version": "0.8.3",
   "authors": [
     {
@@ -31,6 +31,11 @@
         "id": "monks-tokenbar",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "dnd5e-2024-pdf-exporter",
+        "type": "module",
+        "compatibility": {}
       }
     ]
   },
@@ -45,6 +50,16 @@
       "lang": "en",
       "name": "English",
       "path": "lang/en.json"
+    },
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "lang/ru.json"
+    },
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
     }
   ]
 }
