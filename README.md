@@ -11,6 +11,45 @@ It is a Foundry module, not a separate service or mobile app. Install it in a wo
 
 Author: **HornedPriestess**
 
+### Player Companion
+
+<p align="center">
+  <a href="assets/screenshots/player-character.jpg"><img src="assets/screenshots/player-character.jpg" width="48%" alt="Player character sheet with health, rests, death saves, abilities, and mobile navigation."></a>
+  <a href="assets/screenshots/player-chat.jpg"><img src="assets/screenshots/player-chat.jpg" width="48%" alt="Player mobile chat with roll cards and chat controls."></a>
+</p>
+
+<p align="center">
+  <a href="assets/screenshots/player-favorites.jpg"><img src="assets/screenshots/player-favorites.jpg" width="48%" alt="Player Favorites tab for quick access to items, spells, and features."></a>
+  <a href="assets/screenshots/player-settings.jpg"><img src="assets/screenshots/player-settings.jpg" width="48%" alt="Player Settings with theme, navigation, and interface controls."></a>
+</p>
+
+### DM Companion
+
+<p align="center">
+  <a href="assets/screenshots/dm-dashboard.jpg"><img src="assets/screenshots/dm-dashboard.jpg" width="48%" alt="DM Dashboard with world state, active scene, combat, players, and recent chat."></a>
+  <a href="assets/screenshots/dm-actors.jpg"><img src="assets/screenshots/dm-actors.jpg" width="48%" alt="DM Actors tab with searchable folder-based actor management."></a>
+</p>
+
+<p align="center">
+  <a href="assets/screenshots/dm-scenes.jpg"><img src="assets/screenshots/dm-scenes.jpg" width="48%" alt="DM Scenes tab with folder tree, previews, and scene actions."></a>
+  <a href="assets/screenshots/dm-tokenbar.jpg"><img src="assets/screenshots/dm-tokenbar.jpg" width="48%" alt="DM TokenBar request controls for player characters and scene tokens."></a>
+</p>
+
+<details>
+<summary>More interface views</summary>
+
+<p align="center">
+  <a href="assets/screenshots/dm-navigation-1.jpg"><img src="assets/screenshots/dm-navigation-1.jpg" width="48%" alt="DM navigation layout option one."></a>
+  <a href="assets/screenshots/dm-navigation-2.jpg"><img src="assets/screenshots/dm-navigation-2.jpg" width="48%" alt="DM navigation layout option two."></a>
+</p>
+
+<p align="center">
+  <a href="assets/screenshots/dm-players.jpg"><img src="assets/screenshots/dm-players.jpg" width="48%" alt="DM Players tab with player management actions."></a>
+  <a href="assets/screenshots/dm-settings.jpg"><img src="assets/screenshots/dm-settings.jpg" width="48%" alt="DM Settings with theme, navigation, and module controls."></a>
+</p>
+
+</details>
+
 
 
 ## What Players Can Do
