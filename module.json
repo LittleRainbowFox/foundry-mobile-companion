@@ -2,7 +2,7 @@
   "id": "foundry-mobile-companion",
   "title": "Foundry Mobile Companion",
   "description": "A portrait-first player and DM companion interface for Foundry VTT DnD5e worlds, with combat, chat, journals, scenes, playlists, Monk's TokenBar, and D&D 2024 PDF Exporter support.",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "authors": [
     {
       "name": "HornedPriestess"
@@ -10,7 +10,7 @@
   ],
   "url": "https://github.com/LittleRainbowFox/foundry-mobile-companion",
   "manifest": "https://raw.githubusercontent.com/LittleRainbowFox/foundry-mobile-companion/main/module.json",
-  "download": "https://github.com/LittleRainbowFox/foundry-mobile-companion/releases/download/v0.8.4/foundry-mobile-companion.zip",
+  "download": "https://github.com/LittleRainbowFox/foundry-mobile-companion/releases/download/v0.8.5/foundry-mobile-companion.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
